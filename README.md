@@ -1,4 +1,4 @@
-# Hello Function
+# Decrypt Function
 [Evervault](https://evervault.com) makes it easy to encrypt data at source, process it in a Function — a secure, serverless function — and never store it unencrypted.
 
 This is a simple Evervault Function that will allow you to decrypt data.
